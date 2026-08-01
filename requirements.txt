@@ -1,0 +1,8 @@
+psycopg2-binary>=2.9.9
+sentence-transformers>=2.6.0
+torch>=2.2.0
+transformers>=4.38.0
+pillow>=10.2.0
+openai>=1.14.0
+python-dotenv>=1.0.1
+streamlit>=1.32.0

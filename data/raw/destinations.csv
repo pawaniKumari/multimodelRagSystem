@@ -1,0 +1,265 @@
+name,category,district,entrance_fee,accessibility,trekking_difficulty,description,image_path
+Abarana Ella,attraction,Hambantota,0.0,Moderate,N/A,Abarana Ella located in Hambantota.,data/images/abarana_ella.jpg
+Ampara,attraction,Ampara,0.0,Moderate,N/A,"Nearby Accommodation: WHITE HOUSE-AMPARA (Bangalows), HIDEAWAY RESORT (Guest Houses), SUPERSTAR TOURIST INN (Guest Houses)",data/images/ampara.jpg
+Anuradhapura,attraction,Anuradhapura,0.0,Moderate,N/A,"Nearby Accommodation: ULAGALLA WALAWWA RESORT (Boutique Hotels), KIVGA HOLIDAY HOME (Bangalows), SANDELLE HOLIDAY RESORT (Bangalows)",data/images/anuradhapura.jpg
+Aradunu Falls,attraction,Badulla,0.0,Moderate,N/A,Aradunu Falls located in Badulla.,data/images/aradunu_falls.jpg
+Arankele archaeological site,attraction,Kurunagela,0.0,Moderate,N/A,Arankele archaeological site located in Kurunagela.,data/images/arankele_archaeological_site.jpg
+Asgiriya Raja Maha Viharaya,attraction,Gampaha,0.0,Moderate,N/A,Asgiriya Raja Maha Viharaya located in Gampaha.,data/images/asgiriya_raja_maha_viharaya.jpg
+Atha Mala Ella,attraction,Matara,0.0,Moderate,N/A,Atha Mala Ella located in Matara.,data/images/atha_mala_ella.jpg
+Athkanda raja maha viharaya,attraction,Kurunagela,0.0,Moderate,N/A,Athkanda raja maha viharaya located in Kurunagela.,data/images/athkanda_raja_maha_viharaya.jpg
+Athugala viharaya,attraction,Kurunagela,0.0,Moderate,N/A,Athugala viharaya located in Kurunagela.,data/images/athugala_viharaya.jpg
+Attidiya Bird Sanctuary,attraction,colombo,0.0,Moderate,N/A,Attidiya Bird Sanctuary located in colombo.,data/images/attidiya_bird_sanctuary.jpg
+Badulla,attraction,Badulla,0.0,Moderate,N/A,"Nearby Accommodation: FOREST PARADISE GUEST HOME (Bangalows), CLOUDS (Bangalows), SAMANPAYA HOLIDAY BUNGALOW (Bangalows)",data/images/badulla.jpg
+Badulla Alugolla Samadhi Buddha,attraction,Badulla,0.0,Moderate,N/A,Badulla Alugolla Samadhi Buddha located in Badulla.,data/images/badulla_alugolla_samadhi_buddha.jpg
+Badulla Dutch Fort,attraction,Badulla,0.0,Moderate,N/A,Badulla Dutch Fort located in Badulla.,data/images/badulla_dutch_fort.jpg
+Badulla Katharagama Devalaya,attraction,Badulla,0.0,Moderate,N/A,Badulla Katharagama Devalaya located in Badulla.,data/images/badulla_katharagama_devalaya.jpg
+Balakaduwa ella waterfall,attraction,Matale,0.0,Moderate,N/A,Balakaduwa ella waterfall located in Matale.,data/images/balakaduwa_ella_waterfall.jpg
+Bambarakanda Falls,waterfalls,Badulla,100.0,Moderate,Easy,Bambarakanda Falls is the highest waterfall in Sri Lanka with a height of 263 meters located in Kalupahana.,data/images/bambarakanda.jpg
+Bambarakiri ella,attraction,Matale,0.0,Moderate,N/A,Bambarakiri ella located in Matale.,data/images/bambarakiri_ella.jpg
+Barberyn Island,attraction,Kalutara,0.0,Moderate,N/A,Barberyn Island located in Kalutara.,data/images/barberyn_island.jpg
+Bataatha Agro Technology and Tourism Park,attraction,Hambantota,0.0,Moderate,N/A,Bataatha Agro Technology and Tourism Park located in Hambantota.,data/images/bataatha_agro_technology_and_tourism_park.jpg
+Batadobalena,attraction,Rathnapura,0.0,Moderate,N/A,Batadobalena located in Rathnapura.,data/images/batadobalena.jpg
+Batticaloa,attraction,Batticaloa,0.0,Moderate,N/A,"Nearby Accommodation: MAALU MAALU RESORTS & SPA (Boutique Hotels), COCO VILLE (Bangalows), 15 L M D (Bangalows)",data/images/batticaloa.jpg
+Beddagana Wetland Park,attraction,colombo,0.0,Moderate,N/A,Beddagana Wetland Park located in colombo.,data/images/beddagana_wetland_park.jpg
+Bellagio colombo,attraction,colombo,0.0,Moderate,N/A,Bellagio colombo located in colombo.,data/images/bellagio_colombo.jpg
+Birds Research Center Hambantota,attraction,Hambantota,0.0,Moderate,N/A,Birds Research Center Hambantota located in Hambantota.,data/images/birds_research_center_hambantota.jpg
+Biso Ella Waterfall,attraction,Matara,0.0,Moderate,N/A,Biso Ella Waterfall located in Matara.,data/images/biso_ella_waterfall.jpg
+Black Galle Fort,attraction,Galle,0.0,Moderate,N/A,Black Galle Fort located in Galle.,data/images/black_galle_fort.jpg
+Blackpool,attraction,Badulla,0.0,Moderate,N/A,Blackpool located in Badulla.,data/images/blackpool.jpg
+Boburu Fall Tracking,attraction,Badulla,0.0,Moderate,N/A,Boburu Fall Tracking located in Badulla.,data/images/boburu_fall_tracking.jpg
+Bogoda Raja Maha Viharaya,attraction,Badulla,0.0,Moderate,N/A,Bogoda Raja Maha Viharaya located in Badulla.,data/images/bogoda_raja_maha_viharaya.jpg
+Bomburu Ella Waterfall,attraction,Badulla,0.0,Moderate,N/A,Bomburu Ella Waterfall located in Badulla.,data/images/bomburu_ella_waterfall.jpg
+Bopagama Ella,attraction,Gampaha,0.0,Moderate,N/A,Bopagama Ella located in Gampaha.,data/images/bopagama_ella.jpg
+Bopath Falls,attraction,Rathnapura,0.0,Moderate,N/A,Bopath Falls located in Rathnapura.,data/images/bopath_falls.jpg
+Bundala National Park,attraction,Hambantota,0.0,Moderate,N/A,Bundala National Park located in Hambantota.,data/images/bundala_national_park.jpg
+Bundala Safari with Srimal,attraction,Hambantota,0.0,Moderate,N/A,Bundala Safari with Srimal located in Hambantota.,data/images/bundala_safari_with_srimal.jpg
+Casino Marina colombo,attraction,colombo,0.0,Moderate,N/A,Casino Marina colombo located in colombo.,data/images/casino_marina_colombo.jpg
+Cathedral Church of Christ the King,attraction,Kurunagela,0.0,Moderate,N/A,Cathedral Church of Christ the King located in Kurunagela.,data/images/cathedral_church_of_christ_the_king.jpg
+Children park - lakeround,attraction,Kurunagela,0.0,Moderate,N/A,Children park - lakeround located in Kurunagela.,data/images/children_park_-_lakeround.jpg
+"Christ Church Warleigh, Dickoya",attraction,Hatton,0.0,Moderate,N/A,"Christ Church Warleigh, Dickoya located in Hatton.","data/images/christ_church_warleigh,_dickoya.jpg"
+Coconut Tree Hill,attraction,Matara,0.0,Moderate,N/A,Coconut Tree Hill located in Matara.,data/images/mirissa.jpg
+Colombo,attraction,Colombo,0.0,Moderate,N/A,"Nearby Accommodation: PARADISE ROAD TINTAGEL COLOMBO (Boutique Hotels), CASA COLOMBO (Boutique Hotels), DVILLAS LUXURY (Boutique Villas)",data/images/colombo.jpg
+Crow Island Beach Park,attraction,colombo,0.0,Moderate,N/A,Crow Island Beach Park located in colombo.,data/images/crow_island_beach_park.jpg
+Dalada maligawa kurunagela,attraction,Kurunagela,0.0,Moderate,N/A,Dalada maligawa kurunagela located in Kurunagela.,data/images/dalada_maligawa_kurunagela.jpg
+Dandeniya Wewa,attraction,Matara,0.0,Moderate,N/A,Dandeniya Wewa located in Matara.,data/images/dandeniya_wewa.jpg
+Deduru oya dam,attraction,Kurunagela,0.0,Moderate,N/A,Deduru oya dam located in Kurunagela.,data/images/deduru_oya_dam.jpg
+Deduru oya resovir park,attraction,Kurunagela,0.0,Moderate,N/A,Deduru oya resovir park located in Kurunagela.,data/images/deduru_oya_resovir_park.jpg
+Dehena Ella,attraction,Rathnapura,0.0,Moderate,N/A,Dehena Ella located in Rathnapura.,data/images/dehena_ella.jpg
+Dehiwala Zoological Gardens,attraction,colombo,0.0,Moderate,N/A,Dehiwala Zoological Gardens located in colombo.,data/images/dehiwala_zoological_gardens.jpg
+Delgamuwa Rajamaha Viharaya,attraction,Rathnapura,0.0,Moderate,N/A,Delgamuwa Rajamaha Viharaya located in Rathnapura.,data/images/delgamuwa_rajamaha_viharaya.jpg
+Devon Falls,attraction,Hatton,0.0,Moderate,N/A,Devon Falls located in Hatton.,data/images/devon_falls.jpg
+Devon Waterfall view point,attraction,Hatton,0.0,Moderate,N/A,Devon Waterfall view point located in Hatton.,data/images/devon_waterfall_view_point.jpg
+Diva Guhawa,attraction,Rathnapura,0.0,Moderate,N/A,Diva Guhawa located in Rathnapura.,data/images/diva_guhawa.jpg
+Diyaluma Falls,attraction,Badulla,0.0,Moderate,N/A,Diyaluma Falls located in Badulla.,data/images/diyaluma_falls.jpg
+Diyatha Uyana,attraction,colombo,0.0,Moderate,N/A,Diyatha Uyana located in colombo.,data/images/diyatha_uyana.jpg
+Dolukanda rajamaha viharaya,attraction,Kurunagela,0.0,Moderate,N/A,Dolukanda rajamaha viharaya located in Kurunagela.,data/images/dolukanda_rajamaha_viharaya.jpg
+Dondra Head,attraction,Matara,0.0,Moderate,N/A,Dondra Head located in Matara.,data/images/dondra_head.jpg
+"Dry Zone Botanic Gardens, Hambantota",attraction,Hambantota,0.0,Moderate,N/A,"Dry Zone Botanic Gardens, Hambantota located in Hambantota.","data/images/dry_zone_botanic_gardens,_hambantota.jpg"
+Dumbara ella waterfalls,attraction,Matale,0.0,Moderate,N/A,Dumbara ella waterfalls located in Matale.,data/images/dumbara_ella_waterfalls.jpg
+Dumpus Ella,attraction,Rathnapura,0.0,Moderate,N/A,Dumpus Ella located in Rathnapura.,data/images/dumpus_ella.jpg
+Dunhida Waterfall access point,attraction,Badulla,0.0,Moderate,N/A,Dunhida Waterfall access point located in Badulla.,data/images/dunhida_waterfall_access_point.jpg
+Dunhinda Waterfall,attraction,Badulla,0.0,Moderate,N/A,Dunhinda Waterfall located in Badulla.,data/images/dunhinda_waterfall.jpg
+Dutch Museum,attraction,colombo,0.0,Moderate,N/A,Dutch Museum located in colombo.,data/images/dutch_museum.jpg
+Dutch Reformed Church,attraction,Galle,0.0,Moderate,N/A,Dutch Reformed Church located in Galle.,data/images/dutch_reformed_church.jpg
+Excel World Entertainment Park,attraction,colombo,0.0,Moderate,N/A,Excel World Entertainment Park located in colombo.,data/images/excel_world_entertainment_park.jpg
+Flamingos Safari Tours,attraction,Hambantota,0.0,Moderate,N/A,Flamingos Safari Tours located in Hambantota.,data/images/flamingos_safari_tours.jpg
+Galhinna big rock,attraction,Kurunagela,0.0,Moderate,N/A,Galhinna big rock located in Kurunagela.,data/images/galhinna_big_rock.jpg
+Galle,attraction,Galle,0.0,Moderate,N/A,"Nearby Accommodation: GALLE FORT HOTEL (Boutique Hotels), ADITYA (Boutique Hotels), CLUB VILLA (Boutique Hotels)",data/images/galle.jpg
+Galle Dutch Fort,attraction,Galle,0.0,Moderate,N/A,Galle Dutch Fort located in Galle.,data/images/galle_fort.jpg
+Galle Face Green,attraction,colombo,0.0,Moderate,N/A,Galle Face Green located in colombo.,data/images/galle_face_green.jpg
+Galle Face park & Beach,attraction,colombo,0.0,Moderate,N/A,Galle Face park & Beach located in colombo.,data/images/galle_face_park_&_beach.jpg
+Galle Fort Attractions and Jumpers Sri Lanka,attraction,Galle,0.0,Moderate,N/A,Galle Fort Attractions and Jumpers Sri Lanka located in Galle.,data/images/galle_fort_attractions_and_jumpers_sri_lanka.jpg
+Galle Fort Clock Tower,attraction,Galle,0.0,Moderate,N/A,Galle Fort Clock Tower located in Galle.,data/images/galle_fort.jpg
+Galpotha Natural water slide,attraction,Hatton,0.0,Moderate,N/A,Galpotha Natural water slide located in Hatton.,data/images/galpotha_natural_water_slide.jpg
+Gampaha,attraction,Gampaha,0.0,Moderate,N/A,"Nearby Accommodation: THE WALAWWA (Boutique Hotels), COMILLA BUNGALOW (Bangalows), SACHAL MIR'S (Bangalows)",data/images/gampaha.jpg
+Gampaha Botanical Garden,attraction,Gampaha,0.0,Moderate,N/A,Gampaha Botanical Garden located in Gampaha.,data/images/gampaha_botanical_garden.jpg
+Gangarama Sima Malaka,attraction,colombo,0.0,Moderate,N/A,Gangarama Sima Malaka located in colombo.,data/images/gangarama_sima_malaka.jpg
+Gangarama Temple,attraction,colombo,0.0,Moderate,N/A,Gangarama Temple located in colombo.,data/images/gangarama_temple.jpg
+Gartmore Falls,attraction,Hatton,0.0,Moderate,N/A,Gartmore Falls located in Hatton.,data/images/gartmore_falls.jpg
+Glassaugh Falls,attraction,Hatton,0.0,Moderate,N/A,Glassaugh Falls located in Hatton.,data/images/glassaugh_falls.jpg
+Goraka Ella,attraction,Gampaha,0.0,Moderate,N/A,Goraka Ella located in Gampaha.,data/images/goraka_ella.jpg
+Guruge Park,attraction,Gampaha,0.0,Moderate,N/A,Guruge Park located in Gampaha.,data/images/guruge_park.jpg
+Hambantota,attraction,Hambantota,0.0,Moderate,N/A,"Nearby Accommodation: AMANWELLA (Boutique Hotels), BUCKINGAM PLACE (Boutique Hotels), SOORIYA RESORT & SPA (Boutique Hotels)",data/images/hambantota.jpg
+Hambantota Beach,attraction,Hambantota,0.0,Moderate,N/A,Hambantota Beach located in Hambantota.,data/images/hambantota_beach.jpg
+Hambantota Beach Children Park,attraction,Hambantota,0.0,Moderate,N/A,Hambantota Beach Children Park located in Hambantota.,data/images/hambantota_beach_children_park.jpg
+Hambantota Port View,attraction,Hambantota,0.0,Moderate,N/A,Hambantota Port View located in Hambantota.,data/images/hambantota_port_view.jpg
+Hamilton Canal Park,attraction,colombo,0.0,Moderate,N/A,Hamilton Canal Park located in colombo.,data/images/hamilton_canal_park.jpg
+Hatton Siripada view point,attraction,Hatton,0.0,Moderate,N/A,Hatton Siripada view point located in Hatton.,data/images/hatton_siripada_view_point.jpg
+Hiriketiya Beach,attraction,Matara,0.0,Moderate,N/A,Hiriketiya Beach located in Matara.,data/images/hiriketiya_beach.jpg
+Historical Mansion Meseum,attraction,Galle,0.0,Moderate,N/A,Historical Mansion Meseum located in Galle.,data/images/historical_mansion_meseum.jpg
+Horagolla National Park,attraction,Gampaha,0.0,Moderate,N/A,Horagolla National Park located in Gampaha.,data/images/horagolla_national_park.jpg
+Horton plains national park,attraction,Hatton,0.0,Moderate,N/A,Horton plains national park located in Hatton.,data/images/horton_plains_national_park.jpg
+Hulangala mini world end entrance,attraction,Kurunagela,0.0,Moderate,N/A,Hulangala mini world end entrance located in Kurunagela.,data/images/hulangala_mini_world_end_entrance.jpg
+Hulangala mini world's end view,attraction,Matale,0.0,Moderate,N/A,Hulangala mini world's end view located in Matale.,data/images/hulangala_mini_worlds_end_view.jpg
+Hummanaya Blow Hole,attraction,Matara,0.0,Moderate,N/A,Hummanaya Blow Hole located in Matara.,data/images/hummanaya_blow_hole.jpg
+Hunnasgiriya water falls,attraction,Matale,0.0,Moderate,N/A,Hunnasgiriya water falls located in Matale.,data/images/hunnasgiriya_water_falls.jpg
+Ibbagala rajamaha viharaya,attraction,Kurunagela,0.0,Moderate,N/A,Ibbagala rajamaha viharaya located in Kurunagela.,data/images/ibbagala_rajamaha_viharaya.jpg
+Independence Square,attraction,colombo,0.0,Moderate,N/A,Independence Square located in colombo.,data/images/independence_square.jpg
+Jaffna,attraction,Jaffna,0.0,Moderate,N/A,"Nearby Accommodation: SP TOURS AND REST (Bangalows), MARGOSA (Bangalows), JAFFNA REST (Guest Houses)",data/images/jaffna.jpg
+Japanese Peace Pagoda - Rumassala,attraction,Galle,0.0,Moderate,N/A,Japanese Peace Pagoda - Rumassala located in Galle.,data/images/japanese_peace_pagoda_-_rumassala.jpg
+Jodu ella water falls,attraction,Matale,0.0,Moderate,N/A,Jodu ella water falls located in Matale.,data/images/jodu_ella_water_falls.jpg
+"Jungle Beach, Unawatuna",attraction,Galle,0.0,Moderate,N/A,"Jungle Beach, Unawatuna located in Galle.","data/images/jungle_beach,_unawatuna.jpg"
+K & R Tours Hambantota,attraction,Hambantota,0.0,Moderate,N/A,K & R Tours Hambantota located in Hambantota.,data/images/k_&_r_tours_hambantota.jpg
+Kadiyanlena eco resort,attraction,Hatton,0.0,Moderate,N/A,Kadiyanlena eco resort located in Hatton.,data/images/kadiyanlena_eco_resort.jpg
+Kalutara,attraction,Kalutara,0.0,Moderate,N/A,"Nearby Accommodation: REEF VILLA & SPA (Boutique Villas), NETH PIYASA (Bangalows), MATHUGAMA PIYASA (Bangalows)",data/images/kalutara.jpg
+Kalutara Bodhiya,attraction,Kalutara,0.0,Moderate,N/A,Kalutara Bodhiya located in Kalutara.,data/images/kalutara_bodhiya.jpg
+Kande sudu ella water falls,attraction,Matale,0.0,Moderate,N/A,Kande sudu ella water falls located in Matale.,data/images/kande_sudu_ella_water_falls.jpg
+Kandy,attraction,Kandy,0.0,Moderate,N/A,"Nearby Accommodation: THE THEVA RESIDENCY (Boutique Hotels), MOUNT HAVANA LUXURY BOUTIQUE VILLA (Boutique Villas), MOUNT BATTEN BUNGALOW (Boutique Villas)",data/images/kandy.jpg
+Kathiresan Pillayar kovil,attraction,colombo,0.0,Moderate,N/A,Kathiresan Pillayar kovil located in colombo.,data/images/kathiresan_pillayar_kovil.jpg
+Katugas Ella Waterfall,attraction,Rathnapura,0.0,Moderate,N/A,Katugas Ella Waterfall located in Rathnapura.,data/images/katugas_ella_waterfall.jpg
+Kayman's Gate,attraction,colombo,0.0,Moderate,N/A,Kayman's Gate located in colombo.,data/images/kaymans_gate.jpg
+Kegalle,attraction,Kegalle,0.0,Moderate,N/A,"Nearby Accommodation: ROSYTH ESTATE HOUSE (Boutique Villas), ELEPHANT REACH VILLA (Bangalows), DIYAGAL VILLA (Bangalows)",data/images/kegalle.jpg
+Kelaniya Raja Maha Viharaya,attraction,colombo,0.0,Moderate,N/A,Kelaniya Raja Maha Viharaya located in colombo.,data/images/kelaniya_raja_maha_viharaya.jpg
+Kiddies paradise children's park,attraction,Matale,0.0,Moderate,N/A,Kiddies paradise children's park located in Matale.,data/images/kiddies_paradise_childrens_park.jpg
+Kilinochchi,attraction,Kilinochchi,0.0,Moderate,N/A,"Nearby Accommodation: HOTEL SELLA REST (Guest Houses), A9 SPOT (Guest Houses), ALL IN ONE REST (Guest Houses)",data/images/kilinochchi.jpg
+Kirala Kele Sanctuary,attraction,Matara,0.0,Moderate,N/A,Kirala Kele Sanctuary located in Matara.,data/images/kirala_kele_sanctuary.jpg
+Kirinda Beach,attraction,Hambantota,0.0,Moderate,N/A,Kirinda Beach located in Hambantota.,data/images/kirinda_beach.jpg
+Kirindi Ella Waterfall,attraction,Rathnapura,0.0,Moderate,N/A,Kirindi Ella Waterfall located in Rathnapura.,data/images/kirindi_ella_waterfall.jpg
+Kolapathana waterfall,attraction,Hatton,0.0,Moderate,N/A,Kolapathana waterfall located in Hatton.,data/images/kolapathana_waterfall.jpg
+Kombukara Nature Pool and Secre,attraction,Badulla,0.0,Moderate,N/A,Kombukara Nature Pool and Secre located in Badulla.,data/images/kombukara_nature_pool_and_secre.jpg
+Kurunagela camp site,attraction,Kurunagela,0.0,Moderate,N/A,Kurunagela camp site located in Kurunagela.,data/images/kurunagela_camp_site.jpg
+Kurunagela clock tower,attraction,Kurunagela,0.0,Moderate,N/A,Kurunagela clock tower located in Kurunagela.,data/images/kurunagela_clock_tower.jpg
+Kurunagela lake jogging path,attraction,Kurunagela,0.0,Moderate,N/A,Kurunagela lake jogging path located in Kurunagela.,data/images/kurunagela_lake_jogging_path.jpg
+Kurundu Oya Ella Falls,attraction,Badulla,0.0,Moderate,N/A,Kurundu Oya Ella Falls located in Badulla.,data/images/kurundu_oya_ella_falls.jpg
+Kurunegala,attraction,Kurunegala,0.0,Moderate,N/A,"Nearby Accommodation: BROOK BOUTIQUE (Boutique Hotels), RICHARDS (Bangalows), COCO PALMS (Bangalows)",data/images/kurunegala.jpg
+Lagoon boat tour and Bird watching with the beautiful nature,attraction,Hambantota,0.0,Moderate,N/A,Lagoon boat tour and Bird watching with the beautiful nature located in Hambantota.,data/images/lagoon_boat_tour_and_bird_watching_with_the_beautiful_nature.jpg
+Lake round kurunagela,attraction,Kurunagela,0.0,Moderate,N/A,Lake round kurunagela located in Kurunagela.,data/images/lake_round_kurunagela.jpg
+Lanka Ella - Waterfall,attraction,Badulla,0.0,Moderate,N/A,Lanka Ella - Waterfall located in Badulla.,data/images/lanka_ella_-_waterfall.jpg
+Laxapana waterfall,attraction,Hatton,0.0,Moderate,N/A,Laxapana waterfall located in Hatton.,data/images/laxapana_waterfall.jpg
+Lighthouse - Galle,attraction,Galle,0.0,Moderate,N/A,Lighthouse - Galle located in Galle.,data/images/lighthouse_-_galle.jpg
+Lighthouse - Hambantota,attraction,Hambantota,0.0,Moderate,N/A,Lighthouse - Hambantota located in Hambantota.,data/images/lighthouse_-_hambantota.jpg
+Lover's leap waterfall,attraction,Hatton,0.0,Moderate,N/A,Lover's leap waterfall located in Hatton.,data/images/lovers_leap_waterfall.jpg
+Lucky land spice garden,attraction,Matale,0.0,Moderate,N/A,Lucky land spice garden located in Matale.,data/images/lucky_land_spice_garden.jpg
+Madanagiri Ella,attraction,Rathnapura,0.0,Moderate,N/A,Madanagiri Ella located in Rathnapura.,data/images/madanagiri_ella.jpg
+Madiha Beach,attraction,Matara,0.0,Moderate,N/A,Madiha Beach located in Matara.,data/images/madiha_beach.jpg
+Madunagala Hot Water Spring,attraction,Hambantota,0.0,Moderate,N/A,Madunagala Hot Water Spring located in Hambantota.,data/images/madunagala_hot_water_spring.jpg
+Magampura Ruhunu Heritage Museum,attraction,Hambantota,0.0,Moderate,N/A,Magampura Ruhunu Heritage Museum located in Hambantota.,data/images/magampura_ruhunu_heritage_museum.jpg
+Mahamodara Beach Park & Marine Walk,attraction,Galle,0.0,Moderate,N/A,Mahamodara Beach Park & Marine Walk located in Galle.,data/images/mahamodara_beach_park_&_marine_walk.jpg
+Mannar,attraction,Mannar,0.0,Moderate,N/A,"Nearby Accommodation: PALMYRAH HOUSE (Guest Houses), GREEN LINE GUEST HOUSE (Guest Houses), FOUR TEESS REST INN (Guest Houses)",data/images/mannar.jpg
+Mapalana Ella Falls,attraction,Rathnapura,0.0,Moderate,N/A,Mapalana Ella Falls located in Rathnapura.,data/images/mapalana_ella_falls.jpg
+Marakkala Ella,attraction,Rathnapura,0.0,Moderate,N/A,Marakkala Ella located in Rathnapura.,data/images/marakkala_ella.jpg
+Maraluwawa raja maha viharaya,attraction,Kurunagela,0.0,Moderate,N/A,Maraluwawa raja maha viharaya located in Kurunagela.,data/images/maraluwawa_raja_maha_viharaya.jpg
+Maritime Museum,attraction,Galle,0.0,Moderate,N/A,Maritime Museum located in Galle.,data/images/maritime_museum.jpg
+Maruthamunai beach,attraction,Kalmunai,0.0,Moderate,N/A,Maruthamunai beach located in Kalmunai.,data/images/maruthamunai_beach.jpg
+Matale,attraction,Matale,0.0,Moderate,N/A,"Nearby Accommodation: THE ELEPHANT CORRIDOR (Boutique Hotels), VIL UYANA (Boutique Hotels), JIMS FARM VILLA (Boutique Hotels)",data/images/matale.jpg
+Matale town -  view point,attraction,Matale,0.0,Moderate,N/A,Matale town -  view point located in Matale.,data/images/matale_town_-__view_point.jpg
+Matara,attraction,Matara,0.0,Moderate,N/A,"Nearby Accommodation: HIGHLAND VILLA (Boutique Hotels), MANDARA RESORT (Boutique Hotels), MIRISSA HILLS (Boutique Villas)",data/images/matara.jpg
+Matara Beach Park,attraction,Matara,0.0,Moderate,N/A,Matara Beach Park located in Matara.,data/images/matara_beach_park.jpg
+Matara Bodhiya,attraction,Matara,0.0,Moderate,N/A,Matara Bodhiya located in Matara.,data/images/matara_bodhiya.jpg
+Matara Fort,attraction,Matara,0.0,Moderate,N/A,Matara Fort located in Matara.,data/images/matara_fort.jpg
+Matara Paravi Duwa Beach,attraction,Matara,0.0,Moderate,N/A,Matara Paravi Duwa Beach located in Matara.,data/images/matara_paravi_duwa_beach.jpg
+Mayan Water Park,attraction,Gampaha,0.0,Moderate,N/A,Mayan Water Park located in Gampaha.,data/images/mayan_water_park.jpg
+"Meeran Mosque, Galle Fort",attraction,Galle,0.0,Moderate,N/A,"Meeran Mosque, Galle Fort located in Galle.","data/images/meeran_mosque,_galle_fort.jpg"
+Minee Ella,attraction,Rathnapura,0.0,Moderate,N/A,Minee Ella located in Rathnapura.,data/images/minee_ella.jpg
+Mirijjawila Botanical Gardens - South Gate,attraction,Hambantota,0.0,Moderate,N/A,Mirijjawila Botanical Gardens - South Gate located in Hambantota.,data/images/mirijjawila_botanical_gardens_-_south_gate.jpg
+Mirissa Beach,attraction,Matara,0.0,Moderate,N/A,Mirissa Beach located in Matara.,data/images/mirissa.jpg
+Mohini Falls,attraction,Hatton,0.0,Moderate,N/A,Mohini Falls located in Hatton.,data/images/mohini_falls.jpg
+Moneragala,attraction,Moneragala,0.0,Moderate,N/A,"Nearby Accommodation: GAGA ADDARA GUEST (Bangalows), LEISURE BUNGALOW (Bangalows), MANDARA ROSEN HOTEL (Classified Hotels( 1-5 Star))",data/images/moneragala.jpg
+Moon plains,attraction,Hatton,0.0,Moderate,N/A,Moon plains located in Hatton.,data/images/moon_plains.jpg
+Mooray falls,attraction,Hatton,0.0,Moderate,N/A,Mooray falls located in Hatton.,data/images/mooray_falls.jpg
+Mount Lavania Beach,attraction,colombo,0.0,Moderate,N/A,Mount Lavania Beach located in colombo.,data/images/mount_lavania_beach.jpg
+Mount vernon waterfall,attraction,Hatton,0.0,Moderate,N/A,Mount vernon waterfall located in Hatton.,data/images/mount_vernon_waterfall.jpg
+Mullaitivu,attraction,Mullaitivu,0.0,Moderate,N/A,"Nearby Accommodation: PEARL INN GUEST HOUSE (Guest Houses), RAJ REST (Guest Houses), SANA GUEST HOUSE (Guest Houses)",data/images/mullaitivu.jpg
+Muthiyangana Raja Maha Vihara,attraction,Badulla,0.0,Moderate,N/A,Muthiyangana Raja Maha Vihara located in Badulla.,data/images/muthiyangana_raja_maha_vihara.jpg
+Nalanda gedige,attraction,Matale,0.0,Moderate,N/A,Nalanda gedige located in Matale.,data/images/nalanda_gedige.jpg
+Narangala Hill,attraction,Badulla,0.0,Moderate,N/A,Narangala Hill located in Badulla.,data/images/narangala_hill.jpg
+Narangala Mountain,attraction,Badulla,0.0,Moderate,N/A,Narangala Mountain located in Badulla.,data/images/narangala_mountain.jpg
+National Art Gallery,attraction,colombo,0.0,Moderate,N/A,National Art Gallery located in colombo.,data/images/national_art_gallery.jpg
+National Meuseum Galle,attraction,Galle,0.0,Moderate,N/A,National Meuseum Galle located in Galle.,data/images/national_meuseum_galle.jpg
+National spice garden of sri lanka,attraction,Matale,0.0,Moderate,N/A,National spice garden of sri lanka located in Matale.,data/images/national_spice_garden_of_sri_lanka.jpg
+Nilwala Crocodile Safari,attraction,Matara,0.0,Moderate,N/A,Nilwala Crocodile Safari located in Matara.,data/images/nilwala_crocodile_safari.jpg
+Nuwara Eliya,attraction,Nuwara Eliya,0.0,Moderate,N/A,"Nearby Accommodation: LANGDALE RESORT & SPA (Boutique Hotels), MIRAGE KINGS COTTAGE (Boutique Villas), DUNKELD BUNGALOW (Boutique Villas)",data/images/nuwara_eliya.jpg
+Old Dutch Market,attraction,Matara,0.0,Moderate,N/A,Old Dutch Market located in Matara.,data/images/old_dutch_market.jpg
+Old Parliament Building,attraction,colombo,0.0,Moderate,N/A,Old Parliament Building located in colombo.,data/images/old_parliament_building.jpg
+Padiwita ambalama,attraction,Matale,0.0,Moderate,N/A,Padiwita ambalama located in Matale.,data/images/padiwita_ambalama.jpg
+Pallewela Waterfall,attraction,Badulla,0.0,Moderate,N/A,Pallewela Waterfall located in Badulla.,data/images/pallewela_waterfall.jpg
+Panagala,attraction,Kurunagela,0.0,Moderate,N/A,Panagala located in Kurunagela.,data/images/panagala.jpg
+Pandiruppu,attraction,Kalmunai,0.0,Moderate,N/A,Pandiruppu located in Kalmunai.,data/images/pandiruppu.jpg
+Pareiyan Ella Falls,attraction,Badulla,0.0,Moderate,N/A,Pareiyan Ella Falls located in Badulla.,data/images/pareiyan_ella_falls.jpg
+Parewi Duwa Temple,attraction,Matara,0.0,Moderate,N/A,Parewi Duwa Temple located in Matara.,data/images/parewi_duwa_temple.jpg
+Parrot Rock,attraction,Matara,0.0,Moderate,N/A,Parrot Rock located in Matara.,data/images/parrot_rock.jpg
+Pasindu's Snorkeling Centre,attraction,Matara,0.0,Moderate,N/A,Pasindu's Snorkeling Centre located in Matara.,data/images/pasindus_snorkeling_centre.jpg
+Pettah Floating Market,attraction,colombo,0.0,Moderate,N/A,Pettah Floating Market located in colombo.,data/images/pettah_floating_market.jpg
+"Pitawala pathana , riverston",attraction,Matale,0.0,Moderate,N/A,"Pitawala pathana , riverston located in Matale.","data/images/pitawala_pathana_,_riverston.jpg"
+Polonnaruwa,attraction,Polonnaruwa,0.0,Moderate,N/A,"Nearby Accommodation: GALKADAWALA FOREST LODGE (Bangalows), ROYAL GUEST HOUSE (Bangalows), THE DEER PARK HOTEL (Classified Hotels( 1-5 Star))",data/images/polonnaruwa.jpg
+Porawagala Viewpoint,attraction,Badulla,0.0,Moderate,N/A,Porawagala Viewpoint located in Badulla.,data/images/porawagala_viewpoint.jpg
+Pothgul Vihara,attraction,Rathnapura,0.0,Moderate,N/A,Pothgul Vihara located in Rathnapura.,data/images/pothgul_vihara.jpg
+Prabhawa Mountain Day Viewpoint,attraction,Badulla,0.0,Moderate,N/A,Prabhawa Mountain Day Viewpoint located in Badulla.,data/images/prabhawa_mountain_day_viewpoint.jpg
+Puttalam,attraction,Puttalam,0.0,Moderate,N/A,"Nearby Accommodation: C & I BEACH HOTEL (Boutique Villas), VILLA SUNBIRD (Bangalows), ST.ANNE S LAGOON HOUSE (Bangalows)",data/images/puttalam.jpg
+Puwakpitiya Oya,attraction,Matale,0.0,Moderate,N/A,Puwakpitiya Oya located in Matale.,data/images/puwakpitiya_oya.jpg
+Queen Viharamahadevi Statue,attraction,colombo,0.0,Moderate,N/A,Queen Viharamahadevi Statue located in colombo.,data/images/queen_viharamahadevi_statue.jpg
+Rahas ella waterfalls,attraction,Matale,0.0,Moderate,N/A,Rahas ella waterfalls located in Matale.,data/images/rahas_ella_waterfalls.jpg
+Raja & the Whales,attraction,Matara,0.0,Moderate,N/A,Raja & the Whales located in Matara.,data/images/raja_&_the_whales.jpg
+Rajanawa Waterfall,attraction,Rathnapura,0.0,Moderate,N/A,Rajanawa Waterfall located in Rathnapura.,data/images/rajanawa_waterfall.jpg
+Rambadagalla monaragala temple,attraction,Kurunagela,0.0,Moderate,N/A,Rambadagalla monaragala temple located in Kurunagela.,data/images/rambadagalla_monaragala_temple.jpg
+Rangala natural pool,attraction,Matale,0.0,Moderate,N/A,Rangala natural pool located in Matale.,data/images/rangala_natural_pool.jpg
+Rathnapura National Museum,attraction,Rathnapura,0.0,Moderate,N/A,Rathnapura National Museum located in Rathnapura.,data/images/rathnapura_national_museum.jpg
+Ratnapura,attraction,Ratnapura,0.0,Moderate,N/A,"Nearby Accommodation: BOULDER GARDEN (Boutique Hotels), TAPPERS VILLAGE ESTATE BANGALOW (Bangalows), BELPEAK COTTAGE (Bangalows)",data/images/ratnapura.jpg
+Ravan Ella Waterfall,attraction,Badulla,0.0,Moderate,N/A,Ravan Ella Waterfall located in Badulla.,data/images/ravan_ella_waterfall.jpg
+Ravana Waterfall,attraction,Badulla,0.0,Moderate,N/A,Ravana Waterfall located in Badulla.,data/images/ravana_waterfall.jpg
+Ravana's Cave,attraction,Badulla,0.0,Moderate,N/A,Ravana's Cave located in Badulla.,data/images/ravanas_cave.jpg
+Rekawa Turtle Beach,attraction,Hambantota,0.0,Moderate,N/A,Rekawa Turtle Beach located in Hambantota.,data/images/rekawa_turtle_beach.jpg
+Richmond Castle,attraction,Kalutara,0.0,Moderate,N/A,Richmond Castle located in Kalutara.,data/images/richmond_castle.jpg
+Ridiyagama Safari Park,attraction,Hambantota,0.0,Moderate,N/A,Ridiyagama Safari Park located in Hambantota.,data/images/ridiyagama_safari_park.jpg
+Riverston,attraction,Matale,0.0,Moderate,N/A,Riverston located in Matale.,data/images/riverston.jpg
+Rukmani Devi Park,attraction,Gampaha,0.0,Moderate,N/A,Rukmani Devi Park located in Gampaha.,data/images/rukmani_devi_park.jpg
+Rumassala Sanctuary,attraction,Galle,0.0,Moderate,N/A,Rumassala Sanctuary located in Galle.,data/images/rumassala_sanctuary.jpg
+Rumassala South Beach,attraction,Galle,0.0,Moderate,N/A,Rumassala South Beach located in Galle.,data/images/rumassala_south_beach.jpg
+"Sam Tours and Taxi, Hambantota, Sri Lanka",attraction,Hambantota,0.0,Moderate,N/A,"Sam Tours and Taxi, Hambantota, Sri Lanka located in Hambantota.","data/images/sam_tours_and_taxi,_hambantota,_sri_lanka.jpg"
+Sambodhi Pagoda,attraction,colombo,0.0,Moderate,N/A,Sambodhi Pagoda located in colombo.,data/images/sambodhi_pagoda.jpg
+Saniro Dream Paradise,attraction,Gampaha,0.0,Moderate,N/A,Saniro Dream Paradise located in Gampaha.,data/images/saniro_dream_paradise.jpg
+Sathutu Uyana,attraction,colombo,0.0,Moderate,N/A,Sathutu Uyana located in colombo.,data/images/sathutu_uyana.jpg
+Sea corner,attraction,Kalmunai,0.0,Moderate,N/A,Sea corner located in Kalmunai.,data/images/sea_corner.jpg
+Sembuwatta lake,attraction,Matale,0.0,Moderate,N/A,Sembuwatta lake located in Matale.,data/images/sembuwatta_lake.jpg
+Sera ella water falls,attraction,Matale,0.0,Moderate,N/A,Sera ella water falls located in Matale.,data/images/sera_ella_water_falls.jpg
+Shanthipura view point,attraction,Hatton,0.0,Moderate,N/A,Shanthipura view point located in Hatton.,data/images/shanthipura_view_point.jpg
+Sigiriya Rock Fortress,historical sites,Matale,1200.0,Easy,Moderate,"Sigiriya is an ancient rock fortress featuring ancient frescoes, lion paw entrances, and landscaped gardens.",data/images/sigiriya.jpg
+Single tree hill,attraction,Hatton,0.0,Moderate,N/A,Single tree hill located in Hatton.,data/images/single_tree_hill.jpg
+Siri Gautama Sambuddharaja maligawa,attraction,Kurunagela,0.0,Moderate,N/A,Siri Gautama Sambuddharaja maligawa located in Kurunagela.,data/images/siri_gautama_sambuddharaja_maligawa.jpg
+Sk Town Beach,attraction,Matara,0.0,Moderate,N/A,Sk Town Beach located in Matara.,data/images/sk_town_beach.jpg
+Snake Farm Weligama (Traditional Farm),attraction,Matara,0.0,Moderate,N/A,Snake Farm Weligama (Traditional Farm) located in Matara.,data/images/snake_farm_weligama_(traditional_farm).jpg
+Sri Kailawasanathan Swami Devasthanam Kovil,attraction,colombo,0.0,Moderate,N/A,Sri Kailawasanathan Swami Devasthanam Kovil located in colombo.,data/images/sri_kailawasanathan_swami_devasthanam_kovil.jpg
+Sri Lanka Planetarium,attraction,colombo,0.0,Moderate,N/A,Sri Lanka Planetarium located in colombo.,data/images/sri_lanka_planetarium.jpg
+Sri Maha Viharaya,attraction,Rathnapura,0.0,Moderate,N/A,Sri Maha Viharaya located in Rathnapura.,data/images/sri_maha_viharaya.jpg
+Sri Sudharmalaya buddhistst Temple,attraction,Galle,0.0,Moderate,N/A,Sri Sudharmalaya buddhistst Temple located in Galle.,data/images/sri_sudharmalaya_buddhistst_temple.jpg
+Sri Sumana Saman Devalaya,attraction,Rathnapura,0.0,Moderate,N/A,Sri Sumana Saman Devalaya located in Rathnapura.,data/images/sri_sumana_saman_devalaya.jpg
+Sri muththumari amman kovil,attraction,Matale,0.0,Moderate,N/A,Sri muththumari amman kovil located in Matale.,data/images/sri_muththumari_amman_kovil.jpg
+"St. Anthony's Shrine, Kochchikade",attraction,colombo,0.0,Moderate,N/A,"St. Anthony's Shrine, Kochchikade located in colombo.","data/images/st._anthonys_shrine,_kochchikade.jpg"
+St. Lucia's Cathedral,attraction,colombo,0.0,Moderate,N/A,St. Lucia's Cathedral located in colombo.,data/images/st._lucias_cathedral.jpg
+St. Mary's Cathedral,attraction,Galle,0.0,Moderate,N/A,St. Mary's Cathedral located in Galle.,data/images/st._marys_cathedral.jpg
+Star Fort Matara,attraction,Matara,0.0,Moderate,N/A,Star Fort Matara located in Matara.,data/images/star_fort_matara.jpg
+Swarnagiri maha viharaya,attraction,Hatton,0.0,Moderate,N/A,Swarnagiri maha viharaya located in Hatton.,data/images/swarnagiri_maha_viharaya.jpg
+"TURTLE POINT BATHEEGAMA, DiCKWELLA.",attraction,Matara,0.0,Moderate,N/A,"TURTLE POINT BATHEEGAMA, DiCKWELLA. located in Matara.","data/images/turtle_point_batheegama,_dickwella..jpg"
+Thalangama Lake,attraction,colombo,0.0,Moderate,N/A,Thalangama Lake located in colombo.,data/images/thalangama_lake.jpg
+The Palm Rope Swing,attraction,Matara,0.0,Moderate,N/A,The Palm Rope Swing located in Matara.,data/images/the_palm_rope_swing.jpg
+The Shrine of Our Lady of Matara,attraction,Matara,0.0,Moderate,N/A,The Shrine of Our Lady of Matara located in Matara.,data/images/the_shrine_of_our_lady_of_matara.jpg
+Themali kaan waterfalls,attraction,Matale,0.0,Moderate,N/A,Themali kaan waterfalls located in Matale.,data/images/themali_kaan_waterfalls.jpg
+Thepulangoda Waterfall,attraction,Rathnapura,0.0,Moderate,N/A,Thepulangoda Waterfall located in Rathnapura.,data/images/thepulangoda_waterfall.jpg
+To Sripada,attraction,Rathnapura,0.0,Moderate,N/A,To Sripada located in Rathnapura.,data/images/to_sripada.jpg
+Torington park,attraction,colombo,0.0,Moderate,N/A,Torington park located in colombo.,data/images/torington_park.jpg
+Trincomalee,attraction,Trincomalee,0.0,Moderate,N/A,"Nearby Accommodation: SILVER BEACH HOTEL (Bangalows), HOTEL OCEAN PARK (Bangalows), RAMANATHAN COTTAGE (Bangalows)",data/images/trincomalee_boat.jpg
+Turtle Bay Activity Center,attraction,Matara,0.0,Moderate,N/A,Turtle Bay Activity Center located in Matara.,data/images/trincomalee_beach.jpg
+Udammita Ambalama,attraction,Gampaha,0.0,Moderate,N/A,Udammita Ambalama located in Gampaha.,data/images/udammita_ambalama.jpg
+Upper Rawana,attraction,Badulla,0.0,Moderate,N/A,Upper Rawana located in Badulla.,data/images/upper_rawana.jpg
+Upper kothmale reserovir view point,attraction,Hatton,0.0,Moderate,N/A,Upper kothmale reserovir view point located in Hatton.,data/images/upper_kothmale_reserovir_view_point.jpg
+Uva Halpewatte Tea Factory Tour,attraction,Badulla,0.0,Moderate,N/A,Uva Halpewatte Tea Factory Tour located in Badulla.,data/images/uva_halpewatte_tea_factory_tour.jpg
+V.T. Nanayakkara park,attraction,Matale,0.0,Moderate,N/A,V.T. Nanayakkara park located in Matale.,data/images/v.t._nanayakkara_park.jpg
+Vavuniya,attraction,Vavuniya,0.0,Moderate,N/A,"Nearby Accommodation: HOTEL NELLY (Classified Hotels( 1-5 Star)), ROYAL GARDEN GUEST HOUSE (Guest Houses), THAMPA TOURIST HOTEL & INN (Guest Houses)",data/images/vavuniya.jpg
+Viharamahadevi Park,attraction,colombo,0.0,Moderate,N/A,Viharamahadevi Park located in colombo.,data/images/viharamahadevi_park.jpg
+Wadakada ella falls,attraction,Kurunagela,0.0,Moderate,N/A,Wadakada ella falls located in Kurunagela.,data/images/wadakada_ella_falls.jpg
+Waranagala waterfall,attraction,Rathnapura,0.0,Moderate,N/A,Waranagala waterfall located in Rathnapura.,data/images/waranagala_waterfall.jpg
+Weherahena Poorwarama Rajamaha Viharaya,attraction,Matara,0.0,Moderate,N/A,Weherahena Poorwarama Rajamaha Viharaya located in Matara.,data/images/weherahena_poorwarama_rajamaha_viharaya.jpg
+Weligama Beach (surf spot),attraction,Matara,0.0,Moderate,N/A,Weligama Beach (surf spot) located in Matara.,data/images/weligama_beach_(surf_spot).jpg
+Wewala waterfall,attraction,Kurunagela,0.0,Moderate,N/A,Wewala waterfall located in Kurunagela.,data/images/wewala_waterfall.jpg
+Wewurukannala Buduraja Maha Viharaya,attraction,Matara,0.0,Moderate,N/A,Wewurukannala Buduraja Maha Viharaya located in Matara.,data/images/wewurukannala_buduraja_maha_viharaya.jpg
+Windy corner falls,attraction,Hatton,0.0,Moderate,N/A,Windy corner falls located in Hatton.,data/images/windy_corner_falls.jpg
+Wirawila Tissa Sanctuary,attraction,Hambantota,0.0,Moderate,N/A,Wirawila Tissa Sanctuary located in Hambantota.,data/images/wirawila_tissa_sanctuary.jpg
+Yakdessagala mountain,attraction,Kurunagela,0.0,Moderate,N/A,Yakdessagala mountain located in Kurunagela.,data/images/yakdessagala_mountain.jpg
+Yala National Park,wildlife,Hambantota,2500.0,Easy,Easy,"Yala National Park is famous for high leopard densities, elephants, and diverse bird species in dry zone forest.",data/images/yala.jpg
+Yapahuwa rock fortress,attraction,Kurunagela,0.0,Moderate,N/A,Yapahuwa rock fortress located in Kurunagela.,data/images/yapahuwa_rock_fortress.jpg
+Yatagala Raja Maha Viharaya,attraction,Galle,0.0,Moderate,N/A,Yatagala Raja Maha Viharaya located in Galle.,data/images/yatagala_raja_maha_viharaya.jpg
+Yatala Dalada Wehera,attraction,Hambantota,0.0,Moderate,N/A,Yatala Dalada Wehera located in Hambantota.,data/images/yatala_dalada_wehera.jpg
+colombo Natational Museum,attraction,colombo,0.0,Moderate,N/A,colombo Natational Museum located in colombo.,data/images/colombo_natational_museum.jpg
+colombo Port Maritime Museum,attraction,colombo,0.0,Moderate,N/A,colombo Port Maritime Museum located in colombo.,data/images/colombo_port_maritime_museum.jpg
+colombo Port Old Lighthouse,attraction,colombo,0.0,Moderate,N/A,colombo Port Old Lighthouse located in colombo.,data/images/colombo_port_old_lighthouse.jpg
+kalido beach kalutara,attraction,Kalutara,0.0,Moderate,N/A,kalido beach kalutara located in Kalutara.,data/images/kalido_beach_kalutara.jpg
