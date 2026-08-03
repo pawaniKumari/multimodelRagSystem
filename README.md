@@ -29,30 +29,12 @@ The application is structured into four core search capabilities:
 
 ## ⚙️ Installation & Setup Instructions
 
-### 1. Prerequisites
+### 1. Set Up Python Virtual Environment
 
 Ensure you have the following installed on your system:
 
 - **Python 3.10+**
-- **PostgreSQL (v13+)** with the **`pgvector`** extension enabled.
 
----
-
-### 2. Database & `pgvector` Setup
-
-1. Open your PostgreSQL tool (pgAdmin or `psql`) and create a target database:
-
-   ```sql
-   CREATE DATABASE srilanka_tourism;
-   ```
-
-2. Enable the pgvector extension inside your newly created database:
-   ```sql
-   \c srilanka_tourism;
-   CREATE EXTENSION IF NOT EXISTS vector;
-   ```
-
-## 3. Environment & Dependency Setup
 
 Navigate to the project directory:
 
@@ -85,53 +67,26 @@ pip install -r requirements.txt
 
 ---
 
-## 4. Configure Environment Variables (.env)
+## 2. Configure Environment Variables (.env)
 
 Create a `.env` file in the root directory (`rag/.env`) and add your database configuration:
 
 ```
-DB_HOST=localhost
+# Hosted Supabase Credentials
+DB_HOST=db.hzehmzmihsfbbdvmdfkj.supabase.co
 DB_PORT=5432
-DB_NAME=srilanka_tourism
+DB_NAME=postgres
 DB_USER=postgres
-DB_PASSWORD=your_postgres_password
+DB_PASSWORD=<YOUR_SUPABASE_PASSWORD>
+
+# Gemini API Key
+GEMINI_API_KEY=<YOUR_GEMINI_API_KEY>
 ```
 
 ---
 
-## 5. Data Ingestion & Database Population
 
-Populate PostgreSQL with text embeddings and CLIP visual embeddings generated from your dataset:
-
-**Windows (PowerShell):**
-
-```powershell
-$env:PYTHONPATH="."
-python -m scripts.ingest_data
-```
-
-**Linux / macOS:**
-
-```bash
-PYTHONPATH=. python3 -m scripts.ingest_data
-```
-
----
-
-## 6. Test Embedding Setup (Optional Verification)
-
-To verify that local image embedding generation is functioning before running the app:
-
-**Windows (PowerShell):**
-
-```powershell
-$env:PYTHONPATH="."
-python -c "from src.embeddings import generate_image_embedding_from_file; vec = generate_image_embedding_from_file('data/images/bambarakanda.jpg'); print('Vector Length:', len(vec) if vec else 'NULL')"
-```
-
----
-
-## 7. Run the Application
+## 3. Run the Application
 
 Launch the Streamlit web app:
 
